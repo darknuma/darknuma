@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/numatelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="numatelly" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuelaminuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuelaminuj/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/emmanuelaminu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/emmanuelaminu" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@aminuemmazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@aminuemmazon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuelaminuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuelaminuj/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/emmanuelaminu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/emmanuelaminu" height="30" width="40" /></a>
+<a href="https://medium.com/@aminuemmazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@aminuemmazon" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/aminuemmazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aminuemmazon" height="30" width="40" /></a>
 </p>
 
