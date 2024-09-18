@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure Data Engineering**
 
-- 📝 I regularly write articles on [medium.com/aminuemmazon](medium.com/@aminuemmazon)
+- 📝 I regularly write articles on [medium.com/aminuemmazon](https://medium.com/@aminuemmazon)
 
 - 💬 Ask me about **Python, SQL, and anything related to data architecutre and building data platforms**
 
