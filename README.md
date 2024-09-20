@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ejaminu@gmail.com**
 
-- 📄 Know about my experiences [this](this)
+- 📄 Know about my experiences [this](https://drive.google.com/drive/folders/1A59qNKHbw6LMz_fO9PbQlXhQ87aT7MEi)
 
 - ⚡ Hobbies **I love reading, movies and music**
 
