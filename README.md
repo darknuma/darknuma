@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building a Data Platform for African Datasets**
 
-- 🌱 I’m currently learning **Azure Data Engineering**
+- 🌱 I’m currently learning **improving my AWS Skilss**
 
 - 📝 I regularly write articles on [medium.com/aminuemmazon](https://medium.com/@aminuemmazon)
 
