@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a> </p>
 
-- 🔭 I’m currently building resilient data pipelines**
+- 🔭 I’m currently building resilient data pipelines and looking for a remote job hit me up (numatelly@gmamil.com)[]**
 
 - 🌱 I’m currently running a race **against skill issues**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **numatelly@gmail.com**
 
-- 📄 Know about my experiences [this](https://drive.google.com/drive/folders/1A59qNKHbw6LMz_fO9PbQlXhQ87aT7MEi)
 
-- ⚡ Hobbies **I love reading, movies and music**
+- ⚡ Hobbies **
+I love reading, movies and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
