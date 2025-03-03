@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building resilient data pipelines and looking for a remote job hit me up aminuemmazon@gmail.com**
 
-- 🌱 I love working on streaming services and batch pipelines, also building my own LLM chat wrapper (for understanding more biblcal text) **against skill issues**
+- 🌱 I love working on streaming services and batch pipelines, also building my own LLM chat wrapper (for understanding more biblcal text)
 
 - 📝 I regularly write articles on [medium.com/aminuemmazon](https://medium.com/@aminuemmazon)
 
