@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a> </p>
 
-- 🔭 I’m currently building resilient data pipelines and looking for a remote job hit me up aminuemmazon@gmail.com**
+- 🔭 I build pieplines
 
 - 🌱 I love working on streaming services and batch pipelines, also building my own LLM chat wrapper (for understanding more biblcal text)
 
-- 📝 I regularly write articles on [medium.com/aminuemmazon](https://medium.com/@aminuemmazon)
+- 📝 I regularly write articles on [medium.com/aminuemmazon](https://www.medium.com/@aminuemmazon)
 
 - 💬 Ask me about **Python, SQL, and anything related to data architecture and building data platforms**
 
