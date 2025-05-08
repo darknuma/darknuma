@@ -3,15 +3,23 @@
 
 <p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a> </p>
 
-- 🔭 I build pieplines
+- 🔭 I build pieplines, solve the analytical and decision making problems. 
 
-- 🌱 I love working on streaming services and batch pipelines, also building my own LLM chat wrapper (for understanding more biblcal text)
+- 🌱 I tend to enjoy what I do, I participate at Hackathons, and --yet to find a job to challenge me.
 
-- 📝 I regularly write articles on [medium.com/aminuemmazon](https://www.medium.com/@aminuemmazon)
+- 📝 I seldom write articles on [medium.com/aminuemmazon](https://www.medium.com/@aminuemmazon)
 
 - 💬 Ask me about **Python, SQL, and anything related to data architecture and building data platforms**
 
-- 📫 How to reach me **numatelly@gmail.com**
+- 📫 How to reach me **numatelly@gmail.com** 
+
+I work on interesting projects:
+- `Nike ETL Marketing Pipeline`; I had the privilege to build a ecommerce marketing pipeline that solves the headache of processing orders
+- `NGX Streaming`; Get your near time analysis on Nigeria Srock Exchanges, with this pipeline and anaytics I built
+- `Ride Pipeline`; Uber done cheaply. Look at how I built Uber data archi from scratch 
+- `Food Delivery`; Solve Food Delivery problem in Nigeria. It is damn too slow. check my solution (guess what nothing new)
+- `Africa DataScrape`; have any Data about Africa at your disposal. Thank me later (lol).
+- and many moree.......................
 
 
 - ⚡ Hobbies **
@@ -26,10 +34,5 @@ I love reading, movies and music**
 <a href="https://www.hackerearth.com/aminuemmazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aminuemmazon" height="30" width="40" /></a>
 </p>
 
-I work on interesting projects:
-- `NGX Streaming`; Get realtime (mircro batching actually), Nigeria Stock Exchange data for your analysis. (why did i do it, to avoid paying APIS)
-- `Ride Pipeline`; (Mocks how Uber does thier processing pipeline), Build a resilent real time data pipeline for your ride companying (Modelled after reading Uber white paper)
-- `Food Delivery`; Data Lakehouse/Warehouse for Delivery Businesses, in terms of food delivery, I worked on my knowledge from Ride Pipeline to improve more context for this project.
-- `Africa DataScrape`; Get all the data you need about Africa using streamlit app, the goal is kind of simple, scrape, collect data from UN, ECOWAS, and make them readily available on one app, this can help with data extraction, cutting some challenging long processes.
 
   
