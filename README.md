@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a> </p>
 
-- 🔭 I build pieplines, solve the analytical and decision making problems. 
+- 🔭 I build pipelines and solve analytical and decision-making problems. 
 
-- 🌱 I tend to enjoy what I do, I participate at Hackathons, and --yet to find a job to challenge me.
+- I enjoy what I do, and I participate in Hackathons. Things that interest me are using tools to solve problems, ranging from Google to open-source problems
 
 - 📝 I seldom write articles on [medium.com/aminuemmazon](https://www.medium.com/@aminuemmazon)
 
@@ -14,12 +14,12 @@
 - 📫 How to reach me **numatelly@gmail.com** 
 
 I work on interesting projects:
-- `Nike ETL Marketing Pipeline`; I had the privilege to build a ecommerce marketing pipeline that solves the headache of processing orders
-- `NGX Streaming`; Get your near time analysis on Nigeria Srock Exchanges, with this pipeline and anaytics I built
-- `Ride Pipeline`; Uber done cheaply. Look at how I built Uber data archi from scratch 
-- `Food Delivery`; Solve Food Delivery problem in Nigeria. It is damn too slow. check my solution (guess what nothing new)
-- `Africa DataScrape`; have any Data about Africa at your disposal. Thank me later (lol).
-- and many moree.......................
+- `Nike ETL Marketing Pipeline`; I had the privilege to build an e-commerce marketing pipeline that solves the headache of processing orders
+- `NGX Streaming`; Get your near-time analysis on the Nigerian Stock Exchange, with this pipeline and analytics I built
+- `Ride Pipeline`; Uber done cheaply. Look at how I built Uber's data architecture from scratch 
+- `Food Delivery`; Solve the Food Delivery problem in Nigeria. It is damn too slow. Check my solution (guess what, nothing new)
+- `Africa DataScrape`; have any Data about Africa at your disposal? Thank me later (lol).
+- and many more.......................
 
 
 - ⚡ Hobbies **
